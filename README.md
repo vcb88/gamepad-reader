@@ -36,8 +36,8 @@ Other similar Bluetooth gamepads might work but haven't been tested.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/bluetooth-gamepad-reader.git
-cd bluetooth-gamepad-reader
+git clone https://github.com/vcb88/gamepad-reader.git
+cd gamepad-reader
 ```
 
 2. Create and activate a virtual environment (recommended):
